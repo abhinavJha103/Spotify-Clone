@@ -35,6 +35,23 @@ CLOUDINARY_API_KEY=YOUR_API_KEY
 
 CLOUDINARY_API_SECRET=YOUR_API_KEY_SECRET
 
+6. ```cd backend/src```
+7. ```nodemon app.js```
+8. ```cd frontend```
+9. ```npm run dev ```
+
+## Technology Stack
+Frontend: React.js, Zustand for state management
+Backend: Node.js with Express.js
+Database: MongoDB
+Authentication: JWT (JSON Web Tokens) for secure authentication
+State Management: Zustand
+
+## Bugs
+
+There are Small Bugs i Will be keep fixing it 
+
+
 
 
 
