@@ -54,8 +54,7 @@ State Management: Zustand
 
 ## Bugs
 
-There are Small Bugs i Will be keep fixing it 
-
+There are Small Bugs i Will Fix that Soon 
 
 
 
