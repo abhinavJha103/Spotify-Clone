@@ -20,3 +20,13 @@ Admin Dashboard: A secure, user-friendly dashboard to manage the content efficie
 4. ```cd frontend```
 5. ``npm install``
 
+Create .env file under your Backend Folder inside src folder 
+and add this Things
+PORT=PORT_NO
+URI=YOUR_MONGODB_URL
+SECRET=YOUR_SECRET
+CLOUDINARY_CLOUD_NAME=YOUR_CLOUDNAME
+CLOUDINARY_API_KEY=YOUR_API_KEY
+CLOUDINARY_API_SECRET=YOUR_API_KEY_SECRET
+
+
